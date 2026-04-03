@@ -39,19 +39,19 @@ Convertio is a simple and clean Android application that converts currencies bet
 ## 📸 Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/main_screen.jpeg)
+![Main Screen](main_screen.jpeg)
 
 ### Home Page
-![Home Page](screenshots/home_page.jpeg)
+![Home Page](home_page.jpeg)
 
 ### Conversion (Light Mode)
-![Light Mode](screenshots/conversion_light.jpeg)
+![Light Mode](conversion_light.jpeg)
 
 ### Theme Settings
-![Theme Settings](screenshots/theme_settings.jpeg)
+![Theme Settings](theme_settings.jpeg)
 
 ### Conversion (Dark Mode)
-![Dark Mode](screenshots/conversion_dark.jpeg)
+![Dark Mode](conversion_dark.jpeg)
 
 ---
 ## 📂 Project Structure
