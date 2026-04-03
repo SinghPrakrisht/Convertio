@@ -37,7 +37,6 @@ Convertio is a simple and clean Android application that converts currencies bet
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### Main Screen
 ![Main Screen](screenshots/main_screen.jpeg)
